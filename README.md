@@ -1,4 +1,3 @@
 # git_test
-First repo
-
+First repository.
 Testing repo for familiarising myself with Git and Github.
